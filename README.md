@@ -4,6 +4,20 @@ A violet-on-black [Omarchy](https://omarchy.org) theme built around *The Eldritc
 
 ![preview](preview.png)
 
+## Screenshots
+
+**Tiled terminals**
+
+![tiled](screenshots/tiled.png)
+
+| fastfetch | Neovim |
+|---|---|
+| ![fastfetch](screenshots/fastfetch.png) | ![neovim](screenshots/neovim.png) |
+
+**btop**
+
+![btop](screenshots/btop.png)
+
 ## Install
 
 ```bash
