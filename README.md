@@ -21,8 +21,11 @@ Then pick **Ccru** in the theme switcher, or run `omarchy theme set ccru`.
 | `icons.theme` | GTK icon theme (`Yaru-purple-dark`) |
 | `unlock.png` | CCRU wordmark for the boot and disk-unlock screen |
 | `preview.png` | Theme switcher preview |
+| `palette.png` | Wallpaper with the palette swatches |
 
 ## Palette
+
+![palette](palette.png)
 
 | | | | |
 |---|---|---|---|
