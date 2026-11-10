@@ -2,6 +2,8 @@
 
 A violet-on-black [Omarchy](https://omarchy.org) theme built around *The Eldritch Machine Intelligence* artwork.
 
+![wallpaper and palette](palette.png)
+
 ![preview](preview.png)
 
 ## Screenshots
@@ -38,8 +40,6 @@ Then pick **Ccru** in the theme switcher, or run `omarchy theme set ccru`.
 | `palette.png` | Wallpaper with the palette swatches |
 
 ## Palette
-
-![palette](palette.png)
 
 | | | | |
 |---|---|---|---|
