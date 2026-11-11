@@ -26,7 +26,7 @@ A violet-on-black [Omarchy](https://omarchy.org) theme built around *The Eldritc
 omarchy theme install https://github.com/Zollicoff/omarchy-ccru-theme
 ```
 
-Then pick **Ccru** in the theme switcher, or run `omarchy theme set ccru`.
+Then pick **CCRU** in the theme switcher (Omarchy displays it as "Ccru"), or run `omarchy theme set ccru`.
 
 ## What's included
 
